@@ -1,6 +1,6 @@
 # CapyCoin GitHub Repository README
 
-Welcome to the official GitHub repository for CapyCoin, the premier memecoin of Capy Hills! This is where sophistication meets the blockchain, offering a unique experience in the crypto space that's as luxurious as it is innovative. Dive into the world where capybaras live the high life, and join us in making crypto history. 
+Welcome to the official GitHub repository for CapyCoin, the premier memecoin of Capy Hills! Dive into the world where capybaras live the high life, and join us in making crypto history. 
 
 
 
