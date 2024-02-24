@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub repository for CapyCoin, the premier memecoin of Capy Hills! This is where sophistication meets the blockchain, offering a unique experience in the crypto space that's as luxurious as it is innovative. Dive into the world where capybaras live the high life, and join us in making crypto history. 
 
+
+
 ## Smart Contracts
 
 - `CapyCoin.sol`: The heart of CapyCoin, this contract governs the tokenomics, transactions and overall flow of the coin.
@@ -10,6 +12,7 @@ Welcome to the official GitHub repository for CapyCoin, the premier memecoin of 
 
 - `ITaxHandler.sol` & `TaxHandler.sol`: These contracts manage the tax mechanisms of CapyCoin transactions. They ensure that a portion of every transaction is redirected towards development, marketing, and donations.
 
-## Cheers
+
+
 
 Thank you for visiting the CapyCoin repository, cheers from the entire CapyCoin team. 🥂✨
